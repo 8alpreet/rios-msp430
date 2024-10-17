@@ -1,6 +1,6 @@
 ### Hi!
 
-This is my port of RIOS into MSP430, specifically the MSP430FR2355.
+This is my port of [RIOS](https://www.cs.ucr.edu/~vahid/rios/), a simple task scheduler, into MSP430, specifically the MSP430FR2355.
 
 The set of files is a full CCS (Code Composer Studio) Project. I used version 12.8.0.
 You should be able to clone the repo into a CCS workspace and run the code. I plan to
